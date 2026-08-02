@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-socketio
+python-engineio
+pydantic
+python-dotenv
+requests
